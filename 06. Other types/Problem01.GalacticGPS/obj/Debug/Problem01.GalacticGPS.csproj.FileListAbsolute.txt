@@ -1,0 +1,12 @@
+c:\users\gik\documents\visual studio 2015\Projects\OtherTypesInOOPHomework\Problem01.GalacticGPS\bin\Debug\Problem01.GalacticGPS.exe.config
+c:\users\gik\documents\visual studio 2015\Projects\OtherTypesInOOPHomework\Problem01.GalacticGPS\bin\Debug\Problem01.GalacticGPS.exe
+c:\users\gik\documents\visual studio 2015\Projects\OtherTypesInOOPHomework\Problem01.GalacticGPS\bin\Debug\Problem01.GalacticGPS.pdb
+c:\users\gik\documents\visual studio 2015\Projects\OtherTypesInOOPHomework\Problem01.GalacticGPS\obj\Debug\Problem01.GalacticGPS.csprojResolveAssemblyReference.cache
+c:\users\gik\documents\visual studio 2015\Projects\OtherTypesInOOPHomework\Problem01.GalacticGPS\obj\Debug\Problem01.GalacticGPS.exe
+c:\users\gik\documents\visual studio 2015\Projects\OtherTypesInOOPHomework\Problem01.GalacticGPS\obj\Debug\Problem01.GalacticGPS.pdb
+C:\Users\Galya\Desktop\OtherTypesInOOPHomework\Problem01.GalacticGPS\bin\Debug\Problem01.GalacticGPS.exe.config
+C:\Users\Galya\Desktop\OtherTypesInOOPHomework\Problem01.GalacticGPS\obj\Debug\Problem01.GalacticGPS.exe
+C:\Users\Galya\Desktop\OtherTypesInOOPHomework\Problem01.GalacticGPS\obj\Debug\Problem01.GalacticGPS.pdb
+C:\Users\Galya\Desktop\OtherTypesInOOPHomework\Problem01.GalacticGPS\bin\Debug\Problem01.GalacticGPS.exe
+C:\Users\Galya\Desktop\OtherTypesInOOPHomework\Problem01.GalacticGPS\bin\Debug\Problem01.GalacticGPS.pdb
+C:\Users\Galya\Desktop\OtherTypesInOOPHomework\Problem01.GalacticGPS\obj\Debug\Problem01.GalacticGPS.csprojResolveAssemblyReference.cache

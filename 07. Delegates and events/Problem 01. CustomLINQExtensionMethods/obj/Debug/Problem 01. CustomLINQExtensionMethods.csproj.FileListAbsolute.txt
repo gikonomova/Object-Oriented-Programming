@@ -1,0 +1,6 @@
+C:\Users\Galya\Desktop\SoftUni\C# 1\DelegatesAndEvents\Problem 01. CustomLINQExtensionMethods\bin\Debug\Problem_01.CustomLINQExtensionMethods.exe.config
+C:\Users\Galya\Desktop\SoftUni\C# 1\DelegatesAndEvents\Problem 01. CustomLINQExtensionMethods\bin\Debug\Problem_01.CustomLINQExtensionMethods.exe
+C:\Users\Galya\Desktop\SoftUni\C# 1\DelegatesAndEvents\Problem 01. CustomLINQExtensionMethods\bin\Debug\Problem_01.CustomLINQExtensionMethods.pdb
+C:\Users\Galya\Desktop\SoftUni\C# 1\DelegatesAndEvents\Problem 01. CustomLINQExtensionMethods\obj\Debug\Problem 01. CustomLINQExtensionMethods.csprojResolveAssemblyReference.cache
+C:\Users\Galya\Desktop\SoftUni\C# 1\DelegatesAndEvents\Problem 01. CustomLINQExtensionMethods\obj\Debug\Problem_01.CustomLINQExtensionMethods.exe
+C:\Users\Galya\Desktop\SoftUni\C# 1\DelegatesAndEvents\Problem 01. CustomLINQExtensionMethods\obj\Debug\Problem_01.CustomLINQExtensionMethods.pdb

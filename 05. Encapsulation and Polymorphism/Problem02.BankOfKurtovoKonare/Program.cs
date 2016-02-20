@@ -1,0 +1,48 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+//A bank holds different types of accounts for its customers: deposit accounts, loan accounts and mortgage accounts. 
+//Customers could be individuals or companies.
+//All accounts have customer, balance and interest rate (monthly based). 
+//Deposit accounts are allowed to deposit and withdraw money. Loan and mortgage accounts can only deposit money.
+//All accounts can calculate their interest for a given period (in months) using the formula
+//A = money * (1 + interest rate * months) 
+//Loan accounts have no interest for the first 3 months if held by individuals and for the first 2
+//months if held by a company.
+//Deposit accounts have no interest if their balance is positive and less than 1000.
+//Mortgage accounts have ½ interest for the first 12 months for companies and no interest for the first 
+//6 months for individuals.
+//Write a program to model the bank system with classes and interfaces. You should identify the classes,
+//interfaces, base classes and abstract actions and implement the calculation of the interest functionality
+//through overridden methods. Write a program to demonstrate that your classes work correctly.
+
+
+namespace Problem02.BankOfKurtovoKonare
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Accounts[] accounts = new Accounts[]
+            {
+            new DepositAccount(new Individual("Bai Ivan"), 6000.90m, 0.07m),
+            new LoanAccount(new Individual("Bai Tosho"), 8798, 0.09m),
+            new MortgageAccount(new Individual("Bai Geshka"), 100009.90m, 0.14m),
+            new DepositAccount(new Company("Sirma OOD"), 6012300.90m, 0.17m),
+            new LoanAccount(new Company("Enterol LTD"), 879341238, 0.02m),
+            new MortgageAccount(new Company("Rakia Connecting People"), 100630998.90m, 0.24m),
+            };
+
+                foreach (var account in accounts)
+                {
+                    Console.WriteLine(account.ToString());
+                    Console.WriteLine("Calculated Rate: {0}", account.CalculateRate(8)); // for 8 months
+                    Console.WriteLine("Calculated Rate: {0}", account.CalculateRate(12)); //for 12 months
+                
+                }
+        }
+    }
+}

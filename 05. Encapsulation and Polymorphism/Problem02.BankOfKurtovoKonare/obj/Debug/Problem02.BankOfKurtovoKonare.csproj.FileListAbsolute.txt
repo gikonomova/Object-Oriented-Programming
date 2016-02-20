@@ -1,0 +1,6 @@
+C:\Users\Galya\Desktop\EncapsulationAndPolymorphism\Problem02.BankOfKurtovoKonare\bin\Debug\Problem02.BankOfKurtovoKonare.exe.config
+C:\Users\Galya\Desktop\EncapsulationAndPolymorphism\Problem02.BankOfKurtovoKonare\obj\Debug\Problem02.BankOfKurtovoKonare.csprojResolveAssemblyReference.cache
+C:\Users\Galya\Desktop\EncapsulationAndPolymorphism\Problem02.BankOfKurtovoKonare\bin\Debug\Problem02.BankOfKurtovoKonare.exe
+C:\Users\Galya\Desktop\EncapsulationAndPolymorphism\Problem02.BankOfKurtovoKonare\bin\Debug\Problem02.BankOfKurtovoKonare.pdb
+C:\Users\Galya\Desktop\EncapsulationAndPolymorphism\Problem02.BankOfKurtovoKonare\obj\Debug\Problem02.BankOfKurtovoKonare.exe
+C:\Users\Galya\Desktop\EncapsulationAndPolymorphism\Problem02.BankOfKurtovoKonare\obj\Debug\Problem02.BankOfKurtovoKonare.pdb

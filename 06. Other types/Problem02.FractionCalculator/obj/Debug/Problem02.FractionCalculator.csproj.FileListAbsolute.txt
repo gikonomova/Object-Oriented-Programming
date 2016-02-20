@@ -1,0 +1,5 @@
+C:\Users\Galya\Desktop\OtherTypesInOOPHomework\Problem02.FractionCalculator\bin\Debug\Problem02.FractionCalculator.exe.config
+C:\Users\Galya\Desktop\OtherTypesInOOPHomework\Problem02.FractionCalculator\bin\Debug\Problem02.FractionCalculator.exe
+C:\Users\Galya\Desktop\OtherTypesInOOPHomework\Problem02.FractionCalculator\bin\Debug\Problem02.FractionCalculator.pdb
+C:\Users\Galya\Desktop\OtherTypesInOOPHomework\Problem02.FractionCalculator\obj\Debug\Problem02.FractionCalculator.exe
+C:\Users\Galya\Desktop\OtherTypesInOOPHomework\Problem02.FractionCalculator\obj\Debug\Problem02.FractionCalculator.pdb

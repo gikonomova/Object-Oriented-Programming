@@ -1,0 +1,5 @@
+C:\Users\Galya\Desktop\SoftUni\C# 1\InheritanceAndAbstraction\Problem01.HumanStudentAndWorker\bin\Debug\Problem01.HumanStudentAndWorker.exe.config
+C:\Users\Galya\Desktop\SoftUni\C# 1\InheritanceAndAbstraction\Problem01.HumanStudentAndWorker\bin\Debug\Problem01.HumanStudentAndWorker.exe
+C:\Users\Galya\Desktop\SoftUni\C# 1\InheritanceAndAbstraction\Problem01.HumanStudentAndWorker\bin\Debug\Problem01.HumanStudentAndWorker.pdb
+C:\Users\Galya\Desktop\SoftUni\C# 1\InheritanceAndAbstraction\Problem01.HumanStudentAndWorker\obj\Debug\Problem01.HumanStudentAndWorker.exe
+C:\Users\Galya\Desktop\SoftUni\C# 1\InheritanceAndAbstraction\Problem01.HumanStudentAndWorker\obj\Debug\Problem01.HumanStudentAndWorker.pdb

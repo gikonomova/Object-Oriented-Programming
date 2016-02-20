@@ -1,0 +1,5 @@
+C:\Users\Galya\Desktop\SoftUni\C# 1\DelegatesAndEvents\Problem 03. AsynchronousTimer\bin\Debug\Problem_03.AsynchronousTimer.exe.config
+C:\Users\Galya\Desktop\SoftUni\C# 1\DelegatesAndEvents\Problem 03. AsynchronousTimer\bin\Debug\Problem_03.AsynchronousTimer.exe
+C:\Users\Galya\Desktop\SoftUni\C# 1\DelegatesAndEvents\Problem 03. AsynchronousTimer\bin\Debug\Problem_03.AsynchronousTimer.pdb
+C:\Users\Galya\Desktop\SoftUni\C# 1\DelegatesAndEvents\Problem 03. AsynchronousTimer\obj\Debug\Problem_03.AsynchronousTimer.exe
+C:\Users\Galya\Desktop\SoftUni\C# 1\DelegatesAndEvents\Problem 03. AsynchronousTimer\obj\Debug\Problem_03.AsynchronousTimer.pdb

@@ -1,0 +1,5 @@
+C:\Users\Galya\Desktop\SoftUni\C# 1\DelegatesAndEvents\Problem 02. InterestCalculator\bin\Debug\Problem_02.InterestCalculator.exe.config
+C:\Users\Galya\Desktop\SoftUni\C# 1\DelegatesAndEvents\Problem 02. InterestCalculator\bin\Debug\Problem_02.InterestCalculator.exe
+C:\Users\Galya\Desktop\SoftUni\C# 1\DelegatesAndEvents\Problem 02. InterestCalculator\bin\Debug\Problem_02.InterestCalculator.pdb
+C:\Users\Galya\Desktop\SoftUni\C# 1\DelegatesAndEvents\Problem 02. InterestCalculator\obj\Debug\Problem_02.InterestCalculator.exe
+C:\Users\Galya\Desktop\SoftUni\C# 1\DelegatesAndEvents\Problem 02. InterestCalculator\obj\Debug\Problem_02.InterestCalculator.pdb

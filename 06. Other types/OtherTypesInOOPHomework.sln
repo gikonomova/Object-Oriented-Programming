@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem01.GalacticGPS", "Problem01.GalacticGPS\Problem01.GalacticGPS.csproj", "{F48FD859-401D-41F7-93A2-C3298BA7EA78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem02.FractionCalculator", "Problem02.FractionCalculator\Problem02.FractionCalculator.csproj", "{51B374C3-899D-4020-B930-74BC001C4EDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem03.GenericList", "Problem03.GenericList\Problem03.GenericList.csproj", "{0A70CA11-6228-460C-B954-A3EB4DF33D7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F48FD859-401D-41F7-93A2-C3298BA7EA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F48FD859-401D-41F7-93A2-C3298BA7EA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F48FD859-401D-41F7-93A2-C3298BA7EA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F48FD859-401D-41F7-93A2-C3298BA7EA78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51B374C3-899D-4020-B930-74BC001C4EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B374C3-899D-4020-B930-74BC001C4EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B374C3-899D-4020-B930-74BC001C4EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B374C3-899D-4020-B930-74BC001C4EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A70CA11-6228-460C-B954-A3EB4DF33D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A70CA11-6228-460C-B954-A3EB4DF33D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A70CA11-6228-460C-B954-A3EB4DF33D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A70CA11-6228-460C-B954-A3EB4DF33D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

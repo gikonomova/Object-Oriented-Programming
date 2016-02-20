@@ -1,0 +1,6 @@
+c:\users\gik\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem02.LaptopShop\bin\Debug\Problem02.LaptopShop.exe.config
+c:\users\gik\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem02.LaptopShop\obj\Debug\Problem02.LaptopShop.csprojResolveAssemblyReference.cache
+c:\users\gik\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem02.LaptopShop\bin\Debug\Problem02.LaptopShop.exe
+c:\users\gik\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem02.LaptopShop\bin\Debug\Problem02.LaptopShop.pdb
+c:\users\gik\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem02.LaptopShop\obj\Debug\Problem02.LaptopShop.exe
+c:\users\gik\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem02.LaptopShop\obj\Debug\Problem02.LaptopShop.pdb

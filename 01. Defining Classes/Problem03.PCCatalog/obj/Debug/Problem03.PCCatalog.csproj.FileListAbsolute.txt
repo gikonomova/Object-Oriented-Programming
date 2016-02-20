@@ -1,0 +1,6 @@
+c:\users\gik\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem03.PCCatalog\bin\Debug\Problem03.PCCatalog.exe.config
+c:\users\gik\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem03.PCCatalog\obj\Debug\Problem03.PCCatalog.csprojResolveAssemblyReference.cache
+c:\users\gik\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem03.PCCatalog\bin\Debug\Problem03.PCCatalog.exe
+c:\users\gik\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem03.PCCatalog\bin\Debug\Problem03.PCCatalog.pdb
+c:\users\gik\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem03.PCCatalog\obj\Debug\Problem03.PCCatalog.exe
+c:\users\gik\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem03.PCCatalog\obj\Debug\Problem03.PCCatalog.pdb

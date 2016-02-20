@@ -1,0 +1,6 @@
+C:\Users\Galya\Desktop\OtherTypesInOOPHomework\Problem03.GenericList\bin\Debug\Problem03.GenericList.exe.config
+C:\Users\Galya\Desktop\OtherTypesInOOPHomework\Problem03.GenericList\bin\Debug\Problem03.GenericList.exe
+C:\Users\Galya\Desktop\OtherTypesInOOPHomework\Problem03.GenericList\bin\Debug\Problem03.GenericList.pdb
+C:\Users\Galya\Desktop\OtherTypesInOOPHomework\Problem03.GenericList\obj\Debug\Problem03.GenericList.csprojResolveAssemblyReference.cache
+C:\Users\Galya\Desktop\OtherTypesInOOPHomework\Problem03.GenericList\obj\Debug\Problem03.GenericList.exe
+C:\Users\Galya\Desktop\OtherTypesInOOPHomework\Problem03.GenericList\obj\Debug\Problem03.GenericList.pdb

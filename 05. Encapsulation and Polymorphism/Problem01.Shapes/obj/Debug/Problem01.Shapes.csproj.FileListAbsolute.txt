@@ -1,0 +1,6 @@
+C:\Users\Galya\Desktop\EncapsulationAndPolymorphism\Problem01.Shapes\bin\Debug\Problem01.Shapes.exe.config
+C:\Users\Galya\Desktop\EncapsulationAndPolymorphism\Problem01.Shapes\obj\Debug\Problem01.Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Galya\Desktop\EncapsulationAndPolymorphism\Problem01.Shapes\bin\Debug\Problem01.Shapes.exe
+C:\Users\Galya\Desktop\EncapsulationAndPolymorphism\Problem01.Shapes\bin\Debug\Problem01.Shapes.pdb
+C:\Users\Galya\Desktop\EncapsulationAndPolymorphism\Problem01.Shapes\obj\Debug\Problem01.Shapes.exe
+C:\Users\Galya\Desktop\EncapsulationAndPolymorphism\Problem01.Shapes\obj\Debug\Problem01.Shapes.pdb

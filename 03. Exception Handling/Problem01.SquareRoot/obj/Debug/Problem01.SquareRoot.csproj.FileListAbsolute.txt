@@ -1,0 +1,15 @@
+C:\Users\Galya\Desktop\SoftUni\C# 1\HomeworkExceptionHandling\Problem01.SquareRoot\bin\Debug\Problem01.SquareRoot.exe.config
+C:\Users\Galya\Desktop\SoftUni\C# 1\HomeworkExceptionHandling\Problem01.SquareRoot\bin\Debug\Problem01.SquareRoot.exe
+C:\Users\Galya\Desktop\SoftUni\C# 1\HomeworkExceptionHandling\Problem01.SquareRoot\bin\Debug\Problem01.SquareRoot.pdb
+C:\Users\Galya\Desktop\SoftUni\C# 1\HomeworkExceptionHandling\Problem01.SquareRoot\obj\Debug\Problem01.SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Galya\Desktop\SoftUni\C# 1\HomeworkExceptionHandling\Problem01.SquareRoot\obj\Debug\Problem01.SquareRoot.exe
+C:\Users\Galya\Desktop\SoftUni\C# 1\HomeworkExceptionHandling\Problem01.SquareRoot\obj\Debug\Problem01.SquareRoot.pdb
+C:\Users\gik\Default folders\Desktop\HomeworkExceptionHandling\Problem01.SquareRoot\bin\Debug\Problem01.SquareRoot.exe.config
+C:\Users\gik\Default folders\Desktop\HomeworkExceptionHandling\Problem01.SquareRoot\obj\Debug\Problem01.SquareRoot.exe
+C:\Users\gik\Default folders\Desktop\HomeworkExceptionHandling\Problem01.SquareRoot\obj\Debug\Problem01.SquareRoot.pdb
+C:\Users\gik\Default folders\Desktop\HomeworkExceptionHandling\Problem01.SquareRoot\bin\Debug\Problem01.SquareRoot.exe
+C:\Users\gik\Default folders\Desktop\HomeworkExceptionHandling\Problem01.SquareRoot\bin\Debug\Problem01.SquareRoot.pdb
+C:\Users\gik\Default folders\Desktop\HomeworkExceptionHandling\Problem01.SquareRoot\obj\Debug\Problem01.SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Veselin\Desktop\Object-Oriented-Programming\03. Exception Handling\Problem01.SquareRoot\bin\Debug\Problem01.SquareRoot.exe.config
+C:\Users\Veselin\Desktop\Object-Oriented-Programming\03. Exception Handling\Problem01.SquareRoot\obj\Debug\Problem01.SquareRoot.exe
+C:\Users\Veselin\Desktop\Object-Oriented-Programming\03. Exception Handling\Problem01.SquareRoot\obj\Debug\Problem01.SquareRoot.pdb

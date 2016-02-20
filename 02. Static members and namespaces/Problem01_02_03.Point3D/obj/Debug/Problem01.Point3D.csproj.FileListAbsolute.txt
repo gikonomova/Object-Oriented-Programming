@@ -1,0 +1,6 @@
+C:\Users\Galya\Desktop\SoftUni\C# 1\HomeworkStaticMembersAndNamespaces\Problem01.Point3D\bin\Debug\Problem01.Point3D.exe.config
+C:\Users\Galya\Desktop\SoftUni\C# 1\HomeworkStaticMembersAndNamespaces\Problem01.Point3D\obj\Debug\Problem01.Point3D.csprojResolveAssemblyReference.cache
+C:\Users\Galya\Desktop\SoftUni\C# 1\HomeworkStaticMembersAndNamespaces\Problem01.Point3D\bin\Debug\Problem01.Point3D.exe
+C:\Users\Galya\Desktop\SoftUni\C# 1\HomeworkStaticMembersAndNamespaces\Problem01.Point3D\bin\Debug\Problem01.Point3D.pdb
+C:\Users\Galya\Desktop\SoftUni\C# 1\HomeworkStaticMembersAndNamespaces\Problem01.Point3D\obj\Debug\Problem01.Point3D.exe
+C:\Users\Galya\Desktop\SoftUni\C# 1\HomeworkStaticMembersAndNamespaces\Problem01.Point3D\obj\Debug\Problem01.Point3D.pdb
